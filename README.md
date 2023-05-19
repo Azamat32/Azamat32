@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Golang, JS, React , PostgreSQL
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - Telegram: https://t.me/tastemirovv
 - Email: azamat.chimchikov@gmail.com
 - Linkedin: https://www.linkedin.com/in/azamat-tastemirov-471a981ba/
